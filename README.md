@@ -24,8 +24,8 @@ Installation
 ------------
 
 1.  **Clone the repository:**
-   `git clone https://github.com/your-username/sms-spam-detection-api.git`  
-`cd sms-spam-detection-api`
+   `git clone https://github.com/mahdibenabd/Tunisian_SMS_spam_classifier_API.git`  
+`cd Tunisian_SMS_spam_classifier_API`
 
 2.  **Set up the virtual environment:** 
 
@@ -38,8 +38,9 @@ Installation
 How to Use the API
 ------------------
 
-1.  **Start your Python API server:**  
-   `python app.py`  
+1.  **Start your Python API server:**
+   `cd predict`
+   `python predict_sms.py`  
 
 This command will start your Flask API server.
 
